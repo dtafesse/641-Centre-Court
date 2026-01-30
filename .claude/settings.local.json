@@ -3,12 +3,11 @@
     "allow": [
       "Bash(ls:*)",
       "WebSearch",
-      "WebFetch(domain:www.redfin.com)",
-      "WebFetch(domain:blockshopper.com)",
+      "WebFetch",
       "Bash(git init:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(gh repo create:*)"
+      "Bash(pdftotext:*)"
     ]
   }
 }
